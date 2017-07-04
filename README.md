@@ -15,9 +15,13 @@ We use this two platforms to test new features and resolve bugs, before pushing 
 
 ## Licence
 
-The currently licence is the GNU AFFERO GENERAL PUBLIC LICENSE v3, you can read it in this file : [LICENCE](LICENCE).
+![License AGPLV3](https://www.gnu.org/graphics/agplv3-155x51.png) 
+GNU AFFERO GENERAL PUBLIC LICENSE v3.0, see [LICENCE](LICENCE).
 
 Any reuse of the code must go through a strong speech with the staff members, do not hesitate to open an "Issue" to discuss it. We want the widest federated Project as possible, avoiding forks that do not COMMUNICATE WITH US. (Thus, the proposed car-sharing will be better)
+
+
+
 
 
 There is a guide to install a [dev setup on Ubuntu](https://github.com/covoiturage-libre/covoiturage-libre/wiki/Dev-setup-on-Ubuntu).
