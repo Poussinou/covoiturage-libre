@@ -11,7 +11,7 @@ You can help us without knowing how to code, click on the buttons below ;)
 <a href="https://www.lilo.org/fr/covoiturage-libre-fr/" target="_blank"><img src="https://mbamci-1278.kxcdn.com/wp-content/uploads/2017/04/lilo.jpg" height="100"/></a>
 <a href="https://www.helloasso.com/associations/covoiturage-libre-fr/collectes/campagne-courante" target="_blank"><img src="https://www.helloasso.com/Areas/HelloAsso/docs/helloasso-logo-couleurs-2015.png" height="90"/></a>
 
-You can find the repository for the Android App of Coviturage Libre just [here](https://github.com/covoiturage-libre/covoiturage-libre-android)
+You can find the repository for the Android App of Covoiturage Libre just [here](https://github.com/covoiturage-libre/covoiturage-libre-android)
 
 ## Licence
 
